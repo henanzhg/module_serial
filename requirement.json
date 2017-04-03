@@ -1,1 +1,1 @@
-{"comment": "my module name is serial", "requirement": "openedoo_core", "version": "0.1.0", "pip_library": [], "name": "serial", "url": null, "url_endpoint": "/serial", "type": "plugin"}
+{"comment": "my module name is serial", "requirement": "openedoo_core", "version": "0.1.0", "pip_library": ['pyserial'], "name": "serial", "url": null, "url_endpoint": "/serial", "type": "plugin"}
